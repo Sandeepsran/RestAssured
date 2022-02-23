@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-22T21:48:47 EST" name="Default suite" finished-at="2022-02-22T21:48:50 EST" duration-ms="2261">
+    <groups>
+    </groups>
+    <test started-at="2022-02-22T21:48:47 EST" name="Default test" finished-at="2022-02-22T21:48:50 EST" duration-ms="2261">
+      <class name="Teset11_POST">
+        <test-method signature="Post1()[pri:0, instance:Teset11_POST@2053d869]" started-at="2022-02-22T21:48:47 EST" name="Post1" finished-at="2022-02-22T21:48:50 EST" duration-ms="2230" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Post1 -->
+      </class> <!-- Teset11_POST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
